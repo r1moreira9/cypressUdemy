@@ -1,0 +1,11 @@
+node_modules/
+
+# Artefatos gerados pelo Cypress
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+
+# Arquivos locais do sistema e logs
+.DS_Store
+Thumbs.db
+npm-debug.log*
